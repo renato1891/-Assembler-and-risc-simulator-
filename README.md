@@ -1,2 +1,2 @@
 # -Assembler-and-risc-simulator-
-Assembler  and risc simulator write in c. 
+Assembler  and risc simulator written in c. 
