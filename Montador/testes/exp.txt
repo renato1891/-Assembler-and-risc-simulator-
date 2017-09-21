@@ -1,0 +1,4 @@
+lcl r1, 2
+lcl r2, 5
+elev r3, r1, r2
+halt

@@ -1,0 +1,11 @@
+lcl r1, 1
+lcl r2, 5
+lcl r3, 1
+passa r4, r2
+label2:
+beq r4, r0, label1
+mult r1, r4, r1
+sub r4, r4, r3
+j label2
+label1:
+halt
